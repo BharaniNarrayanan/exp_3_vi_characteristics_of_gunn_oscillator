@@ -77,7 +77,8 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Observation
 
-<img width="1866" height="843" alt="image" src="https://github.com/user-attachments/assets/60bd76bd-b95c-4d8b-93e2-2058ea3af2e5" />
+<img width="1430" height="1261" alt="WhatsApp Image 2026-09-21 at 9 09 00 PM" src="https://github.com/user-attachments/assets/9be129d6-7ba5-4a53-85b3-643b01082887" />
+
 
 
 ## Calculation
