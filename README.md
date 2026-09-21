@@ -77,11 +77,13 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="1866" height="843" alt="image" src="https://github.com/user-attachments/assets/60bd76bd-b95c-4d8b-93e2-2058ea3af2e5" />
+
 
 ## Calculation
 
-*(Include your own calculation relevant to the experiment.)*
+<img width="973" height="1280" alt="image" src="https://github.com/user-attachments/assets/26df88fe-8879-4453-bec1-26de6345dfa0" />
+
 
 ## Precautions
 
@@ -91,4 +93,4 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 ## Conclusion
 
-*(Write your own.)*
+Hence,characteristics of gunn oscillator is successfuly done.
